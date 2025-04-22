@@ -14,9 +14,7 @@ Um sistema web para cadastro, consulta e gerenciamento de processos judiciais, p
 - [Configuração de Ambiente](#-configuração-de-ambiente)
 - [Execução](#-execução)
 - [API Endpoints](#-api-endpoints)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
-
+  
 ---
 
 ## 🚀 Funcionalidades
